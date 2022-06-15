@@ -1,21 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
+# Date created
 15th of June 2022
 
-### Project Title
+# Project Title
 Bikeshare Project | Programming for Data Science With Python
 
-### Description
+# Description
 A program coded in Python which shows bike sharing data for different cities in the US. 
 It provides the user with multiple inputs and allows them to filter by city, month and day.
 
-### Files used
+# Files used
 new_york_city.csv
 washington.csv
 chicago.csv
 
-### Credits
+# Credit links
 https://knowledge.udacity.com/questions/852092
 https://knowledge.udacity.com/questions/844039
 https://knowledge.udacity.com/questions/840396
@@ -31,5 +29,5 @@ https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-the
 https://gitlab.com/tomjose1792/BikeShare-Project-Python/-/blob/master/bikeshare.py
 https://stackoverflow.com/questions/21323692/convert-seconds-to-weeks-days-hours-minutes-seconds-in-python
 
-Books:
+# Credit books
 Python Crash Course: A hands-on project based introduction to programming. By: Eric Matthess
