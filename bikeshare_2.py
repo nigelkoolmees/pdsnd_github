@@ -266,5 +266,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
+# Prints a string confirming the restart command
 print("Okay, restarting!")
